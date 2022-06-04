@@ -1,0 +1,53 @@
+[
+  {
+      "id": 1,
+      "likes": 1,
+      "nome": "Livraria Cultura",
+      "endereco": "Rua Geraldo Abdala",
+      "numero": 100,
+      "bairro": "centro",
+      "cidade": "Tangara",
+      "telefone": "4156-4452",
+      "pagamento": ["Dinheiro", "pix"],
+      "site" : "livrariacultura.com.br"
+  },
+
+  {
+      "id": 2,
+      "likes": 1,
+      "nome": "Rose Variedades",
+      "endereco": "Rua Geraldo Abdala",
+      "numero": 200,
+      "bairro": "Bubu",
+      "cidade": "Tangara",
+      "telefone": "4155-4452",
+      "pagamento": ["Dinheiro", "cartao", "pix"],
+      "site" : "rosevariedades.com.br"
+  },
+
+  {
+    "id": 3,
+    "likes": 5,
+    "nome": "Floricultura da Cleo",
+    "endereco": "Rua vitoria",
+    "numero": 1920,
+    "bairro": "Esperanca",
+    "cidade": "Fortaleza",
+    "telefone": "8542-5622",
+    "pagamento": ["Dinheiro", "cartao","pix"],
+    "site" : "floriculturadacleo.com.br"
+  
+  },
+
+  {"id": 4,
+      "likes": 15,
+      "nome": "Mercado dois irmaos",
+      "endereco": "Rua da Paz",
+      "numero": 194,
+      "bairro": "Siqueira",
+      "cidade": "São Paulo",
+      "telefone": "3051-4758",
+      "pagamento": ["Dinheiro", "cartao", "pix"],
+      "site" : "mercadodoisirmaos.com.br"
+  }
+]
